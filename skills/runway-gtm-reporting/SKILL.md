@@ -1,5 +1,5 @@
 ---
-name: runway-gtm-gtm-reporting
+name: runway-gtm-reporting
 description: "Build a weekly GTM scorecard for Runway that reconciles signups, activation, paid conversion, pipeline, and revenue by source, with explicit attribution limits."
 ---
 
